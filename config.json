@@ -1,3 +1,20 @@
 {
-    
+    "aispublicwallboard":{
+        "dashboardId":6,
+        "order" :{
+            "ind_32": 0,
+            "ind_33": 1,
+            "ind_34": 2,
+            "ind_31": 3,
+            "ind_30": 4,
+            "ind_39": 5,
+            "ind_38": 6,
+            "ind_35": 7,
+            "ind_28": 8,
+            "ind_36": 9,
+            "ind_37": 10,
+            "ind_29": 11
+          }
+
+    }
 }
