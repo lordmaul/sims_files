@@ -15,6 +15,20 @@
             "ind_36": 9,
             "ind_37": 10,
             "ind_29": 11
+          },
+          "data_type":{
+            "ind_32": "int",
+            "ind_33": "int",
+            "ind_34": "int",
+            "ind_31": "percentage",
+            "ind_30": "int",
+            "ind_39": "int",
+            "ind_38": "int",
+            "ind_35": "percentage",
+            "ind_28": "int",
+            "ind_36": "int",
+            "ind_37": "int",
+            "ind_29": "percentage"
           }
 
     },
@@ -27,6 +41,12 @@
             "ind_58": 1,
             "ind_60": 2,
             "ind_59": 3
+          },
+        "data_type" :{
+            "ind_57": "int",
+            "ind_58": "int",
+            "ind_60": "int",
+            "ind_59":"percentage"
           }
     
     }
