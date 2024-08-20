@@ -17,5 +17,17 @@
             "ind_29": 11
           }
 
+    },
+    "ea_monitor":
+    {
+        "dashboardId":15,
+        "dashboardPath":"ea-monitoring",
+        "order" :{
+            "ind_57": 0,
+            "ind_58": 1,
+            "ind_60": 2,
+            "ind_59": 3
+          }
+    
     }
 }
