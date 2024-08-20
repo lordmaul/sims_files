@@ -1,6 +1,7 @@
 {
     "aispublicwallboard":{
         "dashboardId":6,
+        "dashboardPath":"aispublicwallboard",
         "order" :{
             "ind_32": 0,
             "ind_33": 1,
