@@ -29,25 +29,21 @@
             "ind_36": "int",
             "ind_37": "int",
             "ind_29": "percentage"
+          },
+          "icons":{
+            "ind_32": "1_icon.png",
+            "ind_33": "2_icon.png",
+            "ind_34": "3_icon.png",
+            "ind_31": "4_icon.png",
+            "ind_30": "5_icon.png",
+            "ind_39": "6_icon.png",
+            "ind_38": "7_icon.png",
+            "ind_35": "8_icon.png",
+            "ind_28": "9_icon.png",
+            "ind_36": "10_icon.png",
+            "ind_37": "11_icon.png",
+            "ind_29": "12_icon.png"
           }
 
-    },
-    "ea_monitor":
-    {
-        "dashboardId":15,
-        "dashboardPath":"ea-monitoring",
-        "order" :{
-            "ind_57": 0,
-            "ind_58": 1,
-            "ind_60": 2,
-            "ind_59": 3
-          },
-        "data_type" :{
-            "ind_57": "int",
-            "ind_58": "int",
-            "ind_60": "int",
-            "ind_59":"percentage"
-          }
-    
     }
 }
